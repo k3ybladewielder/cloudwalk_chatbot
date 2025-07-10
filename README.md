@@ -14,7 +14,7 @@ Build a chatbot that explains what CloudWalk is, its products, mission, and bran
 
 **How to use**:
 - Clone this repository into your local development environment.
-- Install ``uv` with pip: ``pip install uv``
+- Install ``uv`` with pip: ``pip install uv``
 - Create your virtual environment with the ``uv venv .venv``.
 - Initialize your virtual environment:
   - Linux/macOS: ``source .venv/bin/activate`
