@@ -17,7 +17,7 @@ Build a chatbot that explains what CloudWalk is, its products, mission, and bran
 - Install ``uv` with pip: ``pip install uv``
 - Create your virtual environment with the ``uv venv .venv``.
 - Initialize your virtual environment:
-  - Linux/macOS: ``source .venv/bin/activate
+  - Linux/macOS: ``source .venv/bin/activate`
   - Windows (cmd.exe): ``.venv\Scripts\activate``
   - Windows (PowerShell): ``.venv\Scripts\Activate.ps1``
 - Install the required libraries with ``uv pip install -r requirements.txt``.
