@@ -21,8 +21,10 @@ Build a chatbot that explains what CloudWalk is, its products, mission, and bran
   - Windows (cmd.exe): ``.venv\Scripts\activate``
   - Windows (PowerShell): ``.venv\Scripts\Activate.ps1``
 - Install the required libraries with ``uv pip install -r requirements.txt``.
-- Run the desired app with ``python chatbot.py``; or
-- Acess the deployed version on (link).
+- Create a huggingface at ``https://huggingface.co/settings/tokens``
+- Run the desired app with ``python3 chatbot.py``; 
+- Past the huggingface token;
+- Acess the local URL:  http://127.0.0.1:7861.
 
 ## Demo
 <img src="demo.gif"> 
