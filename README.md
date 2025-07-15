@@ -21,5 +21,8 @@ Build a chatbot that explains what CloudWalk is, its products, mission, and bran
   - Windows (cmd.exe): ``.venv\Scripts\activate``
   - Windows (PowerShell): ``.venv\Scripts\Activate.ps1``
 - Install the required libraries with ``uv pip install -r requirements.txt``.
-- Run the desired app. Example: python chatbot.py.
+- Run the desired app with ``python chatbot.py``; or
 - Acess the deployed version on (link).
+
+## Demo
+<img src="demo.gif"> 
