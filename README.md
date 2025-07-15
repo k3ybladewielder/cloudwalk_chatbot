@@ -23,7 +23,7 @@ Build a chatbot that explains what CloudWalk is, its products, mission, and bran
 - Install the required libraries with ``uv pip install -r requirements.txt``.
 - Create a huggingface at ``https://huggingface.co/settings/tokens``
 - Run the desired app with ``python3 chatbot.py``; 
-- Past the huggingface token;
+- Paste the huggingface token;
 - Acess the local URL:  http://127.0.0.1:7861.
 
 ## Demo
