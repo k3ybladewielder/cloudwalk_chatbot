@@ -2,9 +2,10 @@
 
 ## Task
 Build a chatbot that explains what CloudWalk is, its products, mission, and brand values.
-**Goal:** Build a chatbot that explains what CloudWalk is, its products (like InfinitePay), mission, and brand values.
-**Input:** User questions via chat interface.
-**Output:** Natural language answers (optionally Markdown or links).
+
+- **Goal:** Build a chatbot that explains what CloudWalk is, its products (like InfinitePay), mission, and brand values.
+- **Input:** User questions via chat interface.
+- **Output:** Natural language answers (optionally Markdown or links).
 
 **Requirements:**
 - Retrieval-augmented generation (RAG) from public sources
@@ -24,7 +25,8 @@ Build a chatbot that explains what CloudWalk is, its products, mission, and bran
 - Create a huggingface at ``https://huggingface.co/settings/tokens``
 - Run the desired app with ``python3 app.py``; 
 - Paste the huggingface token;
-- Acess the local URL:  http://127.0.0.1:7861.
+- Acess the local URL:  http://127.0.0.1:7861;
+- Or, acess the online chatbot at huggingface spaces: https://huggingface.co/spaces/k3ybladewielder/cloudwalk_chatbot
 
 ## Demo
 <img src="demo.gif"> 
