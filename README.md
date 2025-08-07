@@ -1,4 +1,4 @@
-# 💬 CloudWalk Chatbot
+# CloudWalk Chatbot 💬
 
 ## Task
 Build a chatbot that explains what CloudWalk is, its products, mission, and brand values.
